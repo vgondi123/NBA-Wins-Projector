@@ -12,3 +12,20 @@ I used Jupyter Notebook with Python as the language to complete this project.
 <img width="1366" alt="Screen Shot 2022-10-02 at 10 50 31 PM" src="https://user-images.githubusercontent.com/91444902/193509629-b88a61ab-bed8-434f-9621-5d5c2bf872ea.png">
 <img width="1365" alt="Screen Shot 2022-10-02 at 10 51 51 PM" src="https://user-images.githubusercontent.com/91444902/193509702-9dd178bc-153a-4424-8794-cf238f2d9fc3.png">
 <img width="1365" alt="Screen Shot 2022-10-02 at 10 55 10 PM" src="https://user-images.githubusercontent.com/91444902/193509907-0639fbc9-02af-4861-9d5e-cc8dc55d445f.png">
+
+## Part 2 - Explaratory Data Analysis
+<img width="387" alt="Screen Shot 2022-10-02 at 11 08 50 PM" src="https://user-images.githubusercontent.com/91444902/193511423-1a9f50f3-034f-4b7f-a8f3-74a22f15cf6a.png">
+<img width="411" alt="Screen Shot 2022-10-02 at 11 10 24 PM" src="https://user-images.githubusercontent.com/91444902/193511516-fb28850c-0cff-4f06-b373-b961ed206d23.png">
+<img width="242" alt="Screen Shot 2022-10-02 at 11 11 49 PM" src="https://user-images.githubusercontent.com/91444902/193511664-c62c1232-8d2b-43f0-864a-563916fbaadd.png">
+<img width="413" alt="Screen Shot 2022-10-02 at 11 12 13 PM" src="https://user-images.githubusercontent.com/91444902/193511779-bb5df726-3869-4acb-b25a-03fd7914b8f2.png">
+<img width="378" alt="Screen Shot 2022-10-02 at 11 12 26 PM" src="https://user-images.githubusercontent.com/91444902/193511799-3cb34d52-e318-49d5-b10d-6f5301ed8547.png">
+
+## Part 3 - Machine Learning
+
+### Linear Regression Model
+<img width="1361" alt="Screen Shot 2022-10-02 at 11 16 21 PM" src="https://user-images.githubusercontent.com/91444902/193512244-ba05020b-857c-4987-bf1b-3ddd9dc7d91b.png">
+<img width="367" alt="Screen Shot 2022-10-02 at 11 17 13 PM" src="https://user-images.githubusercontent.com/91444902/193512361-fb51cac6-ce91-42c9-86af-695ba035b2b4.png">
+
+### k-Nearest Neighbors Model
+<img width="1355" alt="Screen Shot 2022-10-02 at 11 19 32 PM" src="https://user-images.githubusercontent.com/91444902/193512779-dea2ee3d-7489-442f-9889-96cd2533658b.png">
+<img width="379" alt="Screen Shot 2022-10-02 at 11 19 58 PM" src="https://user-images.githubusercontent.com/91444902/193512794-bab86b70-957c-47d2-9123-b42a7721a3bf.png">
