@@ -7,6 +7,7 @@ What I set out to accomplish with this project was to be able to build a predict
 I used Jupyter Notebook with Python as the language to complete this project.
 
 ## Part 1 - Web Scraping
+To be able to create the dataset I wanted, I used the website https://www.basketball-reference.com/. This site comprises of a large amount of statistics of both basketball teams and players, dating back to the 1940s. My dataset uses statistics from 2012 and forward. The features I wanted to include in my dataset were the year of the season, team name, average age of the team, games played by the team in the season, total wins in the season, total losses in the season, win/loss % of the season, average experience of the team, coach's total experience, coach's career win/loss %, average career PER of the team, average career WS of the team. PER measures a player's per minute productivity. WS measures how many wins can be contributed to an individual player. In order to gather average experience of the team
 <img width="1373" alt="Screen Shot 2022-10-02 at 10 47 52 PM" src="https://user-images.githubusercontent.com/91444902/193509110-c7a71bf2-1777-4127-bb4c-da2d36feeaac.png">
 <img width="1371" alt="Screen Shot 2022-10-02 at 10 49 43 PM" src="https://user-images.githubusercontent.com/91444902/193509295-6cacaa56-555b-4553-9a2a-a8c924b652cd.png">
 <img width="1366" alt="Screen Shot 2022-10-02 at 10 50 31 PM" src="https://user-images.githubusercontent.com/91444902/193509629-b88a61ab-bed8-434f-9621-5d5c2bf872ea.png">
