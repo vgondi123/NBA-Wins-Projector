@@ -25,9 +25,11 @@ The next part of the project involved exploratory data analysis in order to figu
 ## Part 3 - Machine Learning
 
 ### Linear Regression Model
+The first tye of predictive model I used was multiple linear regression. The variables that produced the best output with this model are Age, Avg Exp, Avg WS, avg PER, and Last Year W/L%. This model produced a mean square error of about 65 and a mean squred error of about 8. The closer you can get to 0 for each value means that your model is that much better. I then looked at how the model predicted wins for each team in 2021-2022 season versus actual wins. The model did a fairly good job of figuring out which teams are the best and which are the worst. 
 <img width="1361" alt="Screen Shot 2022-10-02 at 11 16 21 PM" src="https://user-images.githubusercontent.com/91444902/193512244-ba05020b-857c-4987-bf1b-3ddd9dc7d91b.png">
 <img width="367" alt="Screen Shot 2022-10-02 at 11 17 13 PM" src="https://user-images.githubusercontent.com/91444902/193512361-fb51cac6-ce91-42c9-86af-695ba035b2b4.png">
 
 ### k-Nearest Neighbors Model
+The second type of model I used was k-Nearest Neighbors. The variables that produced the best output with this model are 
 <img width="1355" alt="Screen Shot 2022-10-02 at 11 19 32 PM" src="https://user-images.githubusercontent.com/91444902/193512779-dea2ee3d-7489-442f-9889-96cd2533658b.png">
 <img width="379" alt="Screen Shot 2022-10-02 at 11 19 58 PM" src="https://user-images.githubusercontent.com/91444902/193512794-bab86b70-957c-47d2-9123-b42a7721a3bf.png">
