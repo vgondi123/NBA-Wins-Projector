@@ -14,7 +14,8 @@ To be able to create the dataset I wanted, I used the website https://www.basket
 <img width="1365" alt="Screen Shot 2022-10-02 at 10 51 51 PM" src="https://user-images.githubusercontent.com/91444902/193509702-9dd178bc-153a-4424-8794-cf238f2d9fc3.png">
 <img width="1365" alt="Screen Shot 2022-10-02 at 10 55 10 PM" src="https://user-images.githubusercontent.com/91444902/193509907-0639fbc9-02af-4861-9d5e-cc8dc55d445f.png">
 
-## Part 2 - Explaratory Data Analysis
+## Part 2 - Exploratory Data Analysis
+The next part of the project involved exploratory data analysis in order to figure which variables would be used in the predictive model.
 <img width="387" alt="Screen Shot 2022-10-02 at 11 08 50 PM" src="https://user-images.githubusercontent.com/91444902/193511423-1a9f50f3-034f-4b7f-a8f3-74a22f15cf6a.png">
 <img width="411" alt="Screen Shot 2022-10-02 at 11 10 24 PM" src="https://user-images.githubusercontent.com/91444902/193511516-fb28850c-0cff-4f06-b373-b961ed206d23.png">
 <img width="242" alt="Screen Shot 2022-10-02 at 11 11 49 PM" src="https://user-images.githubusercontent.com/91444902/193511664-c62c1232-8d2b-43f0-864a-563916fbaadd.png">
